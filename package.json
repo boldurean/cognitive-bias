@@ -1,0 +1,23 @@
+{
+  "name": "layout-designer-project-lvl1",
+  "version": "1.0.0",
+  "description": "Frontend Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//boldurean/layout-designer-project-lvl1.git"
+  },
+  "author": "Vasilii Boldurean",
+  "license": "ISC",
+  "devDependencies": {
+    "htmlhint": "^0.15.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^22.0.0",
+    "stylelint-order": "^4.1.0",
+    "surge": "^0.23.0"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "extends": [
     "stylelint-config-standard",
-    "stylelint-config-rational-order",
+    "stylelint-config-rational-order"
   ],
   "plugins": [
     "stylelint-order",
@@ -12,7 +12,7 @@
     "order/properties-order": [],
     "plugin/rational-order": [true, {
       "border-in-box-model": true,
-      "empty-line-between-groups": true,
+      "empty-line-between-groups": true
     }]
   }
 }

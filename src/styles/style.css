@@ -242,16 +242,18 @@ h3 {
 }
 
 .video-container {
-  padding-bottom: 0;
+  padding: 100px 0 0;
 }
 
 .section-video-title {
-  margin-bottom: 27px;
+  margin-bottom: 30px;
 }
 
 .section-video-suptitle {
   display: inline-block;
   margin-bottom: 30px;
+
+  color: #212529;
 }
 
 .video {

@@ -522,6 +522,10 @@ footer::before {
     padding: 50px 5%;
   }
 
+  .section-navigation {
+    padding-top: 25px;
+  }
+
   .header-title {
     margin-bottom: 20px;
 
@@ -631,3 +635,68 @@ footer::before {
   }
 }
 
+@media screen and (max-width: 599px) {
+  h1 {
+    font-size: 36px;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
+
+  h3 {
+    font-size: 17px;
+  }
+
+  .text-box {
+    font-size: 14px;
+    line-height: 1.5em;
+  }
+
+  .btn {
+    margin-top: 15px;
+  }
+
+  .section-video-title {
+    margin-bottom: 15px;
+  }
+
+  .section-video-suptitle {
+    font-size: 14px;
+  }
+
+  .nav-card {
+    min-height: unset;
+  }
+
+  .nav-card-unstyled {
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    max-height: 323px;
+
+    font-size: 36px;
+    text-align: center;
+  }
+
+  .nav-card-number {
+    margin-bottom: 20px;
+  }
+
+  .nav-card-title {
+    font-size: 30px;
+  }
+
+  .content-text-box {
+    font-size: 14px;
+    line-height: 1.5em;
+  }
+
+  .content-question {
+    margin: 40px 0 10px;
+  }
+
+  .footer-button {
+    margin: 0;
+  }
+}
